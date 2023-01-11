@@ -2,4 +2,8 @@
  patil swapnil
 =======
 swapnil patil
+<<<<<<< HEAD
 >>>>>>> 3965da80fe98bb920ad0058e06e50379f2e0eea4
+=======
+Abdul juneed
+>>>>>>> 04d6ca665c77a2c7b01db5602e2e5486db5b194c
